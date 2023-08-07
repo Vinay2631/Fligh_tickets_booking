@@ -1,4 +1,4 @@
-# Flight_Ticket_Booking-ProGrad
+# Flight_Ticket_Booking
 Project Workflow
 SignUp Page
 ![Screenshot 2023-07-13 130253](https://github.com/vijayantony-web/Flight_Ticket_Booking-ProGrad/assets/82152995/e613a67e-b9e1-4bf3-b0ef-016da7f3a54a)
